@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercender",
+        "uuid": 1934916,
+        "checksum": "hw66fr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
